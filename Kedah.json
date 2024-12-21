@@ -1,0 +1,70 @@
+{
+    "Kedah": {
+        "P004 Langkawi": [
+            "N01 Ayer Hangat",
+            "N02 Kuah"
+        ],
+        "P005 Jerlun": [
+            "N03 Kota Siputeh",
+            "N04 Ayer Hitam"
+        ],
+        "P006 Kubang Pasu": [
+            "N05 Bukit Kayu Hitam",
+            "N06 Jitra"
+        ],
+        "P007 Padang Terap": [
+            "N07 Kuala Nerang",
+            "N08 Pedu"
+        ],
+        "P008 Pokok Sena": [
+            "N09 Bukit Lada",
+            "N10 Bukit Pinang",
+            "N11 Derga"
+        ],
+        "P009 Alor Setar": [
+            "N12 Suka Menanti",
+            "N13 Kota Darul Aman",
+            "N14 Alor Mengkudu"
+        ],
+        "P010 Kuala Kedah": [
+            "N15 Anak Bukit",
+            "N16 Kubang Rotan",
+            "N17 Pengkalan Kundor"
+        ],
+        "P011 Pendang": [
+            "N18 Tokai",
+            "N19 Sungai Tiang"
+        ],
+        "P012 Jerai": [
+            "N20 Sungai Limau",
+            "N21 Guar Chempedak",
+            "N22 Gurun"
+        ],
+        "P013 Sik": [
+            "N23 Belantek",
+            "N24 Jeneri"
+        ],
+        "P014 Merbok": [
+            "N25 Bukit Selambau",
+            "N26 Tanjong Dawai"
+        ],
+        "P015 Sungai Petani": [
+            "N27 Pantai Merdeka",
+            "N28 Bakar Arang",
+            "N29 Sidam"
+        ],
+        "P016 Baling": [
+            "N30 Bayu",
+            "N31 Kupang",
+            "N32 Kuala Ketil"
+        ],
+        "P017 Padang Serai": [
+            "N33 Merbau Pulas",
+            "N34 Lunas"
+        ],
+        "P018 Kulim-Bandar Baharu": [
+            "N35 Kulim",
+            "N36 Bandar Baharu"
+        ]
+    }
+}
