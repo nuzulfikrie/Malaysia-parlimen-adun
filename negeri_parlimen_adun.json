@@ -1,0 +1,112 @@
+{
+    "Johor": {
+        "P140 Segamat": [
+            "N01 Buloh Kasap",
+            "N02 Jementah"
+        ],
+        "P141 Sekijang": [
+            "N03 Pemanis",
+            "N04 Kemelah"
+        ],
+        "P142 Labis": [
+            "N05 Tenang",
+            "N06 Bekok"
+        ],
+        "P143 Pagoh": [
+            "N07 Bukit Kepong",
+            "N08 Bukit Pasir"
+        ],
+        "P144 Ledang": [
+            "N09 Gambir",
+            "N10 Tangkak",
+            "N11 Serom"
+        ],
+        "P145 Bakri": [
+            "N12 Bentayan",
+            "N13 Simpang Jeram",
+            "N14 Bukit Naning"
+        ],
+        "P146 Muar": [
+            "N15 Maharani",
+            "N16 Sungai Balang"
+        ],
+        "P147 Parit Sulong": [
+            "N17 Semerah",
+            "N18 Sri Medan"
+        ],
+        "P148 Ayer Hitam": [
+            "N19 Yong Peng",
+            "N20 Semarang"
+        ],
+        "P149 Sri Gading": [
+            "N21 Parit Yaani",
+            "N22 Parit Raja"
+        ],
+        "P150 Batu Pahat": [
+            "N23 Penggaram",
+            "N24 Senggarang",
+            "N25 Rengit"
+        ],
+        "P151 Simpang Renggam": [
+            "N26 Machap",
+            "N27 Layang-Layang"
+        ],
+        "P152 Kluang": [
+            "N28 Mengkibol",
+            "N29 Mahkota"
+        ],
+        "P153 Sembrong": [
+            "N30 Paloh",
+            "N31 Kahang"
+        ],
+        "P154 Mersing": [
+            "N32 Endau",
+            "N33 Tenggaroh"
+        ],
+        "P155 Tenggara": [
+            "N34 Panti",
+            "N35 Pasir Raja"
+        ],
+        "P156 Kota Tinggi": [
+            "N36 Sedili",
+            "N37 Johor Lama"
+        ],
+        "P157 Pengerang": [
+            "N38 Penawar",
+            "N39 Tanjung Surat"
+        ],
+        "P158 Tebrau": [
+            "N40 Tiram",
+            "N41 Puteri Wangsa"
+        ],
+        "P159 Pasir Gudang": [
+            "N42 Johor Jaya",
+            "N43 Permas"
+        ],
+        "P160 Johor Bahru": [
+            "N44 Larkin",
+            "N45 Stulang"
+        ],
+        "P161 Pulai": [
+            "N46 Perling",
+            "N47 Kempas"
+        ],
+        "P162 Iskandar Puteri": [
+            "N48 Skudai",
+            "N49 Kota Iskandar"
+        ],
+        "P163 Kulai": [
+            "N50 Bukit Permai",
+            "N51 Bukit Batu",
+            "N52 Senai"
+        ],
+        "P164 Pontian": [
+            "N53 Benut",
+            "N54 Pulai Sebatang"
+        ],
+        "P165 Tanjung Piai": [
+            "N55 Pekan Nanas",
+            "N56 Kukup"
+        ]
+    }
+}
